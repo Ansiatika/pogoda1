@@ -94,6 +94,7 @@ class App extends Component {
 
 ReactDom.render(
       <WeatherDisplay/>,
+  <App/>,
     document.getElementById('root')
 );
 
